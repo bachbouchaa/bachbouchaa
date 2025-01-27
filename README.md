@@ -29,22 +29,6 @@
 [![Jenkins](https://img.shields.io/badge/jenkins-black?style=for-the-badge&logo=jenkins)](https://github.com/bachbouchaa)
 [![GitLab](https://img.shields.io/badge/gitlab-black?style=for-the-badge&logo=gitlab)](https://github.com/bachbouchaa)
 
-<details>
-<p align="center">
-  <a href="https://github.com/bachbouchaa">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bachbouchaa&theme=transparent" />
-  </a>
-  <a href="https://github.com/bachbouchaa">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bachbouchaa&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/bachbouchaa">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bachbouchaa&theme=transparent" />
-  </a>
-  <a href="https://github.com/bachbouchaa">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bachbouchaa&langs_count=10&layout=compact&hide_border=true&theme=transparent" />
-  </a>
-</p>
-</details>
 
 <p align="center">
   <a href="https://github.com/bachbouchaa">
