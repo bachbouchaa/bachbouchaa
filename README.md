@@ -5,7 +5,6 @@
     <i>
         Je suis Nermine Bacha.<br>
         Étudiante ingénieure à Télécom SudParis, passionnée par le Cloud, le DevOps, et l'automatisation des infrastructures.<br>
-        À la recherche d'une alternance en DevOps dès septembre 2025, je suis enthousiaste à l'idée de collaborer sur des projets innovants.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/nermine-bacha-7580711ba/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
