@@ -40,7 +40,7 @@
 
 ### Cloud Computing
 [![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-black?style=for-the-badge&logo=microsoft-azure)](https://github.com/bachbouchaa)
-
+[![Amazon AWS](https://img.shields.io/badge/amazon%20aws-black?style=for-the-badge&logo=amazon-aws)](https://github.com/bachbouchaa)
 ### Systèmes d’Exploitation
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)](https://github.com/bachbouchaa)
 [![Windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows)](https://github.com/bachbouchaa)
