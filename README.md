@@ -9,9 +9,7 @@
     <a href="https://www.linkedin.com/in/nermine-bacha-7580711ba/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="https://github.com/bachbouchaa">
-        <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" alt="GitHub">
-    </a>
+   
 </p>
 
 ### Outils et Technologies DevOps
